@@ -1,1 +1,7 @@
-CristianoRonaldoDosSantosAveiro>LionelCucuttiniMessiAndres
+Goat = input("Goat Ronaldo mu? Messi mi?)
+if Goat == Ronaldo:
+	print("Goat Ronaldo dediniz.")
+elif Goat == Messi:
+	print("Goat Ronaldo dediniz.")
+else:
+	print("Lütfen Goat'ı belirleyiniz.")
