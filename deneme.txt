@@ -1,7 +1,7 @@
 Goat = input("Goat Ronaldo mu? Messi mi?)
 if Goat == Ronaldo:
-	print("Goat Messi dediniz.")
+	print("Goat Ronaldo dediniz.")
 elif Goat == Messi:
-	print("Goat Messi dediniz.")
+	print("Goat Ronaldo dediniz.")
 else:
 	print("Lütfen Goat'ı belirleyiniz.")
